@@ -1,0 +1,71 @@
+# Moraya Land Surveyors — Frontend Pages
+
+## Shared
+
+1. Login
+2. Profile
+3. Change Password
+
+## Admin
+
+1. Admin Dashboard
+2. Employees
+3. Add Employee
+4. Employee Details
+5. Sites
+6. Add Site
+7. Site Details
+8. Work Entries
+9. Work Entry Details
+10. Verification Center
+11. Expenses
+12. Expense Details
+13. Income
+14. Add Income
+15. Income Details
+16. Salary
+17. Add Salary
+18. Salary Details
+19. Users & Permissions
+20. User Details
+21. Permission Editor
+22. Reports & Invoices
+23. Report Builder
+24. Report Preview
+25. Audit Logs
+26. Audit Log Details
+27. Settings
+
+## Worker
+
+1. Worker Dashboard
+2. Add Work Entry
+3. My Work
+4. Work Entry Details
+5. Changes Requested
+6. Edit & Resubmit Work
+7. My Expenses
+8. Expense Details
+9. My Sites
+10. Site Details
+11. My Salary
+12. Salary Details
+13. Worker Profile
+14. Change Password
+
+## Admin Report Pages
+
+1. Overall Work/Site Invoice
+2. Personal Employee Work Invoice
+3. Overall Employee Work Invoice
+4. Site Invoice
+5. Overall Site Total Expense Invoice
+6. Individual Site Expense Invoice
+7. Employee Expense Invoice
+8. Overall Site Total Income Invoice
+9. Individual Site Income Invoice
+10. Individual Employee Salary Invoice
+11. Overall Salary Invoice
+12. Employee Salary + Expense Summary
+13. Site Net Balance
+14. Overall Financial Summary
